@@ -5,3 +5,4 @@ learning how to use git
 
  Xialingzi Jin - xj24@duke.edu
 
+ Kim Jin - kimloveleslie@gmail.com
